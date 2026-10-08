@@ -1,0 +1,14 @@
+SQL and Database Programming Notes
+
+SQL is the standard language for relational databases such as MySQL. A table
+stores rows and columns. The SELECT statement retrieves data, WHERE filters
+rows, ORDER BY sorts results, GROUP BY aggregates, and JOIN combines tables.
+
+Database indexes improve query speed. A primary key uniquely identifies each
+row. Normalization organizes schema to avoid duplication. Transactions group
+statements so they succeed or fail together.
+
+Python programs connect to MySQL with a database driver, execute SQL queries,
+fetch results, and handle database errors with exception handling. Django
+models map Python classes to database tables. Understanding SQL complements
+database normalization theory covered in DBMS notes.

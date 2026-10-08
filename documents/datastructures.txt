@@ -1,0 +1,20 @@
+Data Structures - Study Notes
+
+Data structures organize and store data efficiently. Common data structures
+include arrays, linked lists, stacks, queues, trees, graphs, hash tables, and
+heaps. Each data structure has trade-offs in time and space complexity.
+
+A stack follows last-in first-out order with push and pop operations. A queue
+follows first-in first-out order with enqueue and dequeue operations. A linked
+list consists of nodes where each node stores data and a reference to the next
+node. Doubly linked lists also store a reference to the previous node.
+
+Trees are hierarchical data structures with a root node, child nodes, and leaf
+nodes. Binary trees restrict each node to at most two children. Binary search
+trees maintain ordering for fast lookup. Graphs consist of vertices and edges
+and can be directed or undirected. Hash tables use a hash function to map keys
+to buckets, providing average constant time lookup.
+
+Understanding data structures is essential for algorithms, database indexing,
+and operating systems. Python lists, tuples, sets, and dictionaries are built-in
+data structures implemented with efficient algorithms.

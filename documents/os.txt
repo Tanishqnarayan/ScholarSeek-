@@ -1,0 +1,21 @@
+Operating Systems - OS Notes
+
+An operating system manages hardware and software resources. It acts as an
+intermediary between users and hardware. Core functions include process
+management, memory management, file system management, and device management.
+
+A process is a program in execution. Process scheduling algorithms include first
+come first served, shortest job first, round robin, and priority scheduling.
+Inter-process communication uses pipes, message queues, and shared memory.
+Threads share memory within a process and enable concurrent execution.
+
+Deadlock occurs when processes wait for resources held by each other. Deadlock
+detection and deadlock prevention are essential. The four Coffman conditions
+for deadlock are mutual exclusion, hold and wait, no preemption, and circular
+wait. Deadlock detection algorithms examine resource allocation graphs.
+Banker's algorithm avoids deadlock by safe state checks.
+
+Memory management uses paging, segmentation, and virtual memory. The file system
+organizes files in directories. Synchronization problems include the critical
+section, semaphores, monitors, and the readers writers problem. Popular
+operating systems include Linux, Windows, and macOS.

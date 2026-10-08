@@ -1,0 +1,22 @@
+Algorithms - Design and Analysis Notes
+
+An algorithm is a step-by-step procedure for solving a problem. Algorithm
+analysis measures time complexity and space complexity, often expressed with
+Big-O notation. Common complexities include constant, logarithmic, linear,
+linearithmic, quadratic, and exponential time.
+
+Sorting algorithms include bubble sort, selection sort, insertion sort, merge
+sort, quick sort, and heap sort. Merge sort and quick sort use divide and
+conquer with average time complexity O(n log n). Searching algorithms include
+linear search and binary search. Binary search requires sorted data and runs
+in logarithmic time.
+
+Algorithm design paradigms include divide and conquer, greedy algorithms,
+dynamic programming, and backtracking. Dijkstra's algorithm finds shortest paths
+in graphs. Depth first search and breadth first search traverse trees and
+graphs. Recursion is a technique where a function calls itself with a base case
+to terminate.
+
+Efficient algorithms depend on appropriate data structures such as hash tables,
+heaps, and balanced trees. Ranking and searching documents also relies on
+algorithms for scoring and sorting results by relevance.

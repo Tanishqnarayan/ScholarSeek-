@@ -1,0 +1,17 @@
+Computer Networks - Networking Notes
+
+A computer network connects devices to share data. The OSI model has seven
+layers: physical, data link, network, transport, session, presentation, and
+application. The TCP/IP model simplifies this into four layers. IP addressing
+and routing move packets across networks.
+
+TCP is a reliable connection-oriented transport protocol with acknowledgments
+and retransmission. UDP is a faster connectionless protocol used for streaming.
+HTTP and HTTPS operate at the application layer for the web. DNS resolves
+domain names to IP addresses. DHCP assigns IP addresses automatically.
+
+Network devices include hubs, switches, routers, and firewalls. Ethernet and
+WiFi are common link technologies. Congestion control, flow control, and error
+detection improve reliability. Socket programming in Python allows building
+client server applications over TCP and UDP. Network security uses encryption,
+authentication, and firewalls to protect data.

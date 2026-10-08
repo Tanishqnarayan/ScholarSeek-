@@ -1,0 +1,21 @@
+Software Engineering - SE Notes
+
+Software engineering applies systematic methods to build reliable software.
+The software development life cycle includes requirement analysis, design,
+implementation, testing, deployment, and maintenance. Common process models
+include waterfall, iterative, spiral, and agile methodologies.
+
+Agile follows iterative sprints with a product backlog, sprint backlog, user
+stories, story points, daily standups, sprint reviews, and retrospectives. Scrum
+defines roles such as product owner, scrum master, and development team. A
+Kanban board tracks work in columns like backlog, todo, in progress, code
+review, testing, and done. A burndown chart tracks remaining story points over
+sprint duration.
+
+Version control with Git and GitHub enables collaboration. Branches, commits,
+pull requests, and code reviews maintain quality. Continuous integration with
+GitHub Actions runs automated tests on push and pull request. Testing includes
+unit tests, integration tests, and system tests using frameworks like unittest.
+
+Design principles include modularity, separation of concerns, and documentation.
+Requirements, architecture diagrams, and definitions of done guide development.

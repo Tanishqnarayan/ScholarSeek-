@@ -1,0 +1,27 @@
+Python Programming Language - Introduction Notes
+
+Python is a high-level programming language known for its simplicity and readability.
+It was created by Guido van Rossum and first released in 1991. Python supports
+multiple programming paradigms including procedural programming, object oriented
+programming, and functional programming.
+
+Python is an interpreted language, which means code is executed line by line by
+the Python interpreter. It has dynamic typing, automatic memory management, and
+a large standard library. Common data structures in Python include lists, tuples,
+sets, and dictionaries. Lists are mutable ordered sequences, tuples are immutable
+ordered sequences, sets store unique unordered elements, and dictionaries store
+key value pairs.
+
+Functions in Python are defined with the def keyword. Lambda functions provide a
+way to create small anonymous functions. List comprehensions offer a concise way
+to create lists. Iterators and generators allow efficient iteration over sequences,
+with generators using the yield keyword to produce values lazily.
+
+Exception handling in Python uses try, except, finally blocks. File handling is
+done with the open function, supporting read, write, and append modes. Modules
+and packages help organize code, and object oriented programming is supported
+through classes, inheritance, and polymorphism.
+
+Python is widely used in web development with frameworks like Django, in data
+analysis, automation, and scripting. The Django web framework follows the model
+template view pattern and provides an object relational mapper for database access.

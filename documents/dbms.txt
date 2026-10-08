@@ -1,0 +1,23 @@
+Database Management Systems - DBMS Notes
+
+A database is an organized collection of data. A database management system (DBMS)
+is software that manages databases and provides an interface for users and
+applications. Examples include MySQL, PostgreSQL, and SQLite.
+
+Database normalization is a process that reduces redundancy and improves data
+consistency by organizing tables. Normalization involves dividing large tables
+into smaller tables and defining relationships between them. The normal forms
+include first normal form, second normal form, and third normal form. Database
+normalization reduces redundancy and improves data consistency by organizing
+tables with primary keys and foreign keys.
+
+Structured Query Language (SQL) is used to query and manipulate databases.
+Common SQL commands include SELECT, INSERT, UPDATE, DELETE, CREATE TABLE, and
+JOIN operations. An index in a database speeds up retrieval. Transactions ensure
+ACID properties: atomicity, consistency, isolation, and durability.
+
+The entity relationship model describes entities, attributes, and relationships.
+Primary keys uniquely identify rows, while foreign keys link tables together.
+Concurrency control and deadlock handling are important in multi-user database
+systems. Database indexing, query optimization, and schema design affect
+performance of database normalization and retrieval.
