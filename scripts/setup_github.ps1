@@ -68,26 +68,58 @@ $issues = @(
     "As a user, I want a clean web interface so that searching is easy.`n`nStory points: 5 | Priority: High | Sprint: 3`n`nAcceptance:`n- Pages: home (popular searches), results (relevance bars), document, history, staff manage`n- Plain HTML/CSS, no frontend framework`n- Files: search_app/templates/, search_app/static/")
 )
 $urls = @()
-foreach ($i in $issues) {
-  $json = gh issue create --repo $Repo --title $i[0] --label $i[1] --body $i[2] --format json -q ".url" 2>&1
-  if ($LASTEXITCODE -eq 0) { $urls += $json.Trim(); Write-Host "created: $($i[0])" }
-  else { Write-Host "SKIP/EXISTS: $($i[0]) -- $json" -ForegroundColor Yellow }
+$existingMap = @{}
+$existingJson = gh issue list --repo $Repo --state all --limit 100 --json title,url 2>$null
+if ($LASTEXITCODE -eq 0) {
+  foreach ($e in ($existingJson | ConvertFrom-Json)) { $existingMap[$e.title] = $e.url }
+} else {
+  Write-Host "Cannot list issues - check 'gh auth status'. Re-login if needed." -ForegroundColor Yellow
 }
-Write-Host "`n$($urls.Count) issues created."
+foreach ($i in $issues) {
+  if ($existingMap.ContainsKey($i[0])) {
+    $urls += $existingMap[$i[0]]; Write-Host "exists, reusing: $($i[0])"
+    continue
+  }
+  $out = gh issue create --repo $Repo --title $i[0] --label $i[1] --body $i[2] --format json -q ".url" 2>&1
+  if ($LASTEXITCODE -eq 0) { $urls += $out.Trim(); Write-Host "created: $($i[0])" }
+  else { Write-Host "FAILED: $($i[0]) -- $out" -ForegroundColor Red }
+}
+Write-Host "`n$($urls.Count) of 12 issues ready."
 
 # 3. Project board ------------------------------------------------------------
 Step "Creating project board 'ScholarSeek Kanban'"
-$projJson = gh project create --owner ($Repo.Split("/")[0]) --title "ScholarSeek Kanban" --format json 2>&1
-if ($LASTEXITCODE -ne 0) {
-  Write-Host "Project create failed (may already exist): $projJson" -ForegroundColor Yellow
-  Write-Host "Open https://github.com/users/$($Repo.Split('/')[0])/projects and add the 12 issues manually."
-  return
+$owner = $Repo.Split("/")[0]
+$projNumber = $null
+$projJson = gh project create --owner $owner --title "ScholarSeek Kanban" --format json 2>&1
+if ($LASTEXITCODE -eq 0) {
+  $projNumber = ($projJson | ConvertFrom-Json).number
+  Write-Host "project #$projNumber created."
+} else {
+  Write-Host "Project create failed: $projJson" -ForegroundColor Yellow
+  if ($projJson -match "scopes") {
+    Write-Host 'Fix: run  gh auth refresh -s project,read:project  then re-run this script.' -ForegroundColor Yellow
+    return
+  }
+  $list = gh project list --owner $owner --format json 2>$null
+  if ($LASTEXITCODE -eq 0) {
+    $hit = ($list | ConvertFrom-Json).projects | Where-Object { $_.title -eq "ScholarSeek Kanban" } | Select-Object -First 1
+    if ($hit) { $projNumber = $hit.number; Write-Host "reusing existing project #$projNumber." }
+  }
+  if (-not $projNumber) {
+    Write-Host "Open https://github.com/users/$owner/projects and add the 12 issues manually."
+    return
+  }
 }
-$proj = $projJson | ConvertFrom-Json
-$projNumber = $proj.number
-Write-Host "project #$projNumber created."
+$already = @()
+$items = gh project item-list $projNumber --owner $owner --format json 2>$null
+if ($LASTEXITCODE -eq 0) {
+  foreach ($it in ($items | ConvertFrom-Json).items) {
+    if ($it.content.url) { $already += $it.content.url }
+  }
+}
 foreach ($u in $urls) {
-  gh project item-add $projNumber --owner ($Repo.Split("/")[0]) --url $u 2>$null | Out-Null
+  if ($already -contains $u) { continue }
+  gh project item-add $projNumber --owner $owner --url $u 2>$null | Out-Null
 }
 Write-Host "items added. Finishing: set all cards to Done + rename columns in the board UI:"
 Write-Host "  https://github.com/users/$($Repo.Split('/')[0])/projects/$projNumber/views/1"
