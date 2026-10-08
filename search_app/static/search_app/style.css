@@ -1,0 +1,29 @@
+:root { --bg:#0f172a; --card:#1e293b; --accent:#38bdf8; --text:#e2e8f0; }
+* { box-sizing: border-box; }
+body { margin:0; font-family: Segoe UI, Arial, sans-serif; background:var(--bg); color:var(--text); }
+.topbar { display:flex; justify-content:space-between; align-items:center; padding:12px 24px; background:#020617; }
+.topbar a { color:var(--text); text-decoration:none; margin-left:16px; }
+.brand { font-weight:800; letter-spacing:1px; color:var(--accent) !important; }
+.container { max-width:860px; margin:0 auto; padding:24px; }
+.hero { text-align:center; padding:48px 12px; }
+.hero h1 { letter-spacing:4px; }
+.searchbox { display:flex; gap:8px; justify-content:center; margin:20px 0; }
+.searchbox input { flex:1; max-width:520px; padding:12px; border-radius:8px; border:1px solid #334155; background:#020617; color:var(--text); }
+.searchbox button { padding:12px 20px; border-radius:8px; border:0; background:var(--accent); font-weight:700; cursor:pointer; }
+.searchbox.small { justify-content:flex-start; }
+.chip { display:inline-block; border:1px solid #334155; border-radius:999px; padding:4px 12px; margin:2px; color:var(--text); text-decoration:none; }
+.result { background:var(--card); border-radius:12px; padding:16px; margin:12px 0; }
+.result h3 { margin:0 0 4px; }
+.result h3 a { color:#fff; }
+.meta { color:#94a3b8; font-size:13px; }
+.bar { background:#020617; border-radius:999px; height:8px; overflow:hidden; }
+.bar div { background:var(--accent); height:8px; }
+.snippet { line-height:1.5; }
+mark { background:#facc15; border-radius:3px; padding:0 2px; }
+.pager { display:flex; gap:16px; justify-content:center; margin:20px 0; }
+.pager a { color:var(--accent); }
+.doctext { white-space:pre-wrap; background:var(--card); padding:16px; border-radius:12px; }
+.messages li { background:#14532d; padding:8px 12px; border-radius:8px; list-style:none; }
+.help { color:#94a3b8; }
+.hq { background:var(--card); border-radius:12px; padding:12px 16px; margin:10px 0; }
+.footer { text-align:center; color:#64748b; padding:24px; }

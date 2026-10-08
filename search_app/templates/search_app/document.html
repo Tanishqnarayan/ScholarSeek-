@@ -1,0 +1,14 @@
+{% extends "search_app/base.html" %}
+{% block title %}{{ doc.title|default:filename }} — ScholarSeek{% endblock %}
+{% block content %}
+<p><a href="javascript:history.back()">← Back to results</a></p>
+{% if doc %}
+<h2>{{ doc.title }}</h2>
+<p class="meta">{{ doc.filename }} · {{ doc.category }} · {{ doc.word_count }} words</p>
+<pre class="doctext">{% for line in content_lines %}{{ line }}
+{% endfor %}</pre>
+{% else %}
+<h2>{{ filename }}</h2>
+<p>Document metadata found but full text is not in the current index. Rebuild the index.</p>
+{% endif %}
+{% endblock %}

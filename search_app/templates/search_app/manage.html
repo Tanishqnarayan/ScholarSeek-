@@ -1,0 +1,11 @@
+{% extends "search_app/base.html" %}
+{% block title %}Manage documents — ScholarSeek{% endblock %}
+{% block content %}
+<h2>Document management (staff)</h2>
+<form method="post" enctype="multipart/form-data">{% csrf_token %}
+  <input type="file" name="file" accept=".txt" required>
+  <button type="submit">Upload &amp; index</button>
+</form>
+<h3>Indexed documents ({{ indexed|length }})</h3>
+<ul>{% for d in indexed %}<li><a href="{% url 'document_detail' d.filename %}">{{ d.title }}</a> — {{ d.filename }} ({{ d.word_count }} words)</li>{% endfor %}</ul>
+{% endblock %}

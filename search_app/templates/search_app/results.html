@@ -1,0 +1,25 @@
+{% extends "search_app/base.html" %}
+{% block title %}Results for "{{ query }}" — ScholarSeek{% endblock %}
+{% block content %}
+<form class="searchbox small" action="{% url 'search' %}" method="get">
+  <input type="text" name="q" value="{{ query }}" placeholder="Search academic documents...">
+  <button type="submit">SEARCH</button>
+</form>
+<h2>{{ total }} result{{ total|pluralize }} for &ldquo;{{ query }}&rdquo;</h2>
+{% for r in page_obj %}
+<article class="result">
+  <h3><a href="{% url 'document_detail' r.filename %}">{{ r.title }}</a></h3>
+  <p class="meta">{{ r.filename }} · {{ r.category }} · {{ r.relevance }}% relevant · {{ r.matched_count }} term{{ r.matched_count|pluralize }} matched</p>
+  <div class="bar"><div style="width:{{ r.relevance }}%"></div></div>
+  <p class="snippet">{{ r.snippet_html|safe }}</p>
+  <p class="terms">Matched: {{ r.matched_terms|join:", " }}{% if r.phrase_matched %} · phrase match{% endif %}</p>
+</article>
+{% empty %}
+<p>No documents matched. Try fewer terms, an OR query, or a quoted phrase.</p>
+{% endfor %}
+<div class="pager">
+  {% if page_obj.has_previous %}<a href="?q={{ query|urlencode }}&page={{ page_obj.previous_page_number }}">← Prev</a>{% endif %}
+  <span>Page {{ page_obj.number }} of {{ page_obj.paginator.num_pages }}</span>
+  {% if page_obj.has_next %}<a href="?q={{ query|urlencode }}&page={{ page_obj.next_page_number }}">Next →</a>{% endif %}
+</div>
+{% endblock %}

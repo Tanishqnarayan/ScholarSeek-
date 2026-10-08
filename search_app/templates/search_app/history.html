@@ -1,0 +1,11 @@
+{% extends "search_app/base.html" %}
+{% block title %}Search history — ScholarSeek{% endblock %}
+{% block content %}
+<h2>Search history</h2>
+{% for q in queries %}
+<section class="hq">
+  <h3>&ldquo;{{ q.query_text }}&rdquo; <small>{{ q.result_count }} hits · {{ q.searched_at }}</small></h3>
+  <ol>{% for r in q.results.all|slice:":5" %}<li>{{ r.doc_filename }} — {{ r.relevance_score }}%</li>{% empty %}<li>No hits</li>{% endfor %}</ol>
+</section>
+{% empty %}<p>No searches yet.</p>{% endfor %}
+{% endblock %}

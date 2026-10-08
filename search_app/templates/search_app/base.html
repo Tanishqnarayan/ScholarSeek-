@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{% block title %}ScholarSeek — Mini Search Engine{% endblock %}</title>
+<link rel="stylesheet" href="/static/search_app/style.css">
+</head>
+<body>
+<header class="topbar">
+  <a class="brand" href="{% url 'home' %}">ScholarSeek</a>
+  <nav>
+    <a href="{% url 'home' %}">Search</a>
+    <a href="{% url 'history' %}">History</a>
+    <a href="{% url 'manage' %}">Manage</a>
+  </nav>
+</header>
+<main class="container">
+  {% if messages %}<ul class="messages">{% for m in messages %}<li>{{ m }}</li>{% endfor %}</ul>{% endif %}
+  {% block content %}{% endblock %}
+</main>
+<footer class="footer"><span>ScholarSeek · TF-IDF mini search engine · Django + MySQL</span></footer>
+</body>
+</html>

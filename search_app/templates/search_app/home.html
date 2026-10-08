@@ -1,0 +1,18 @@
+{% extends "search_app/base.html" %}
+{% block content %}
+<section class="hero">
+  <h1>MINI SEARCH ENGINE</h1>
+  <p class="sub">Search academic documents by relevance, not keywords alone.</p>
+  <form class="searchbox" action="{% url 'search' %}" method="get">
+    <input type="text" name="q" placeholder="Search academic documents..." value="{{ request.GET.q|default:'' }}" autofocus>
+    <button type="submit">SEARCH</button>
+  </form>
+  <p class="popular">Popular searches:
+    {% for p in popular %}<a class="chip" href="{% url 'search' %}?q={{ p|urlencode }}">{{ p }}</a>{% endfor %}
+  </p>
+  <details class="help">
+    <summary>Advanced syntax</summary>
+    <code>"exact phrase"</code> · <code>python AND django</code> · <code>python OR java</code> · <code>python NOT django</code>
+  </details>
+</section>
+{% endblock %}
