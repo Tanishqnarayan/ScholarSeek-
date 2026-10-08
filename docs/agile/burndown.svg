@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="320">
+<rect width="100%" height="100%" fill="#0f172a"/>
+<text x="360" y="22" fill="#e2e8f0" text-anchor="middle" font-size="16">Burndown — remaining story points</text>
+<polyline points="40.0,115.0 82.7,175.0 125.3,235.0 168.0,280.0 210.7,40.0 253.3,130.0 296.0,220.0 338.7,280.0 381.3,85.0 424.0,160.0 466.7,235.0 509.3,280.0 552.0,220.0 594.7,235.0 637.3,265.0 680.0,280.0" fill="none" stroke="#38bdf8" stroke-width="2"/>
+<circle cx="40.0" cy="115.0" r="3" fill="#38bdf8"/>
+<circle cx="82.7" cy="175.0" r="3" fill="#38bdf8"/>
+<circle cx="125.3" cy="235.0" r="3" fill="#38bdf8"/>
+<circle cx="168.0" cy="280.0" r="3" fill="#38bdf8"/>
+<circle cx="210.7" cy="40.0" r="3" fill="#38bdf8"/>
+<circle cx="253.3" cy="130.0" r="3" fill="#38bdf8"/>
+<circle cx="296.0" cy="220.0" r="3" fill="#38bdf8"/>
+<circle cx="338.7" cy="280.0" r="3" fill="#38bdf8"/>
+<circle cx="381.3" cy="85.0" r="3" fill="#38bdf8"/>
+<circle cx="424.0" cy="160.0" r="3" fill="#38bdf8"/>
+<circle cx="466.7" cy="235.0" r="3" fill="#38bdf8"/>
+<circle cx="509.3" cy="280.0" r="3" fill="#38bdf8"/>
+<circle cx="552.0" cy="220.0" r="3" fill="#38bdf8"/>
+<circle cx="594.7" cy="235.0" r="3" fill="#38bdf8"/>
+<circle cx="637.3" cy="265.0" r="3" fill="#38bdf8"/>
+<circle cx="680.0" cy="280.0" r="3" fill="#38bdf8"/>
+<text x="40" y="312" fill="#94a3b8" font-size="11">sprint-1 d1: 11</text>
+<text x="680" y="312" fill="#94a3b8" font-size="11" text-anchor="end">sprint-4 d7: 0</text>
+</svg>
