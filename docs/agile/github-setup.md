@@ -1,6 +1,18 @@
 # GitHub Kanban / Issues — manual setup
 
-GitHub Projects/Issues cannot be created from this sandbox, so do this once:
+GitHub Projects/Issues setup — automated via `scripts/setup_github.ps1`
+(requires the GitHub CLI; login is interactive and must be done by you once):
+
+```powershell
+gh auth login
+.\scripts\setup_github.ps1
+```
+
+The script creates all labels below, the 12 US-xx issues, a `ScholarSeek Kanban`
+project board, and adds every issue to it. Afterwards open the board URL it
+prints and arrange/rename columns to
+BACKLOG | TODO | IN PROGRESS | CODE REVIEW | TESTING | DONE, then move cards
+to DONE. Manual fallback (same content) follows.
 
 1. Push repo to https://github.com/Tanishqnarayan/ScholarSeek-.git (already pushed).
 2. Create Project (Board): `ScholarSeek Kanban` with columns:
