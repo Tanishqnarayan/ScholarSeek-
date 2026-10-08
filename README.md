@@ -52,8 +52,8 @@ tests/ (39 unit tests) | data/index.json | scripts/burndown.py | docs/agile/ | .
 
 ## 12. Installation instructions
 ```powershell
-git clone https://github.com/Tanishqnarayan/ScholarSeek
-cd ScholarSeek  # folder ITL-PBL in this submission
+git clone https://github.com/Tanishqnarayan/ScholarSeek-.git
+cd ScholarSeek-  # folder ITL-PBL in this submission
 python -m venv .venv; .\.venv\Scripts\Activate.ps1
 pip install -r requirements.txt
 copy .env.example .env
@@ -93,7 +93,7 @@ python scripts/burndown.py
 ```
 
 ## 18. Git workflow
-Fresh repo in project dir, remote `origin https://github.com/Tanishqnarayan/ScholarSeek`. Conventional commits: `feat:`, `test:`, `ci:`, `docs:`. Example history: `feat: add document loader`, `feat: implement text preprocessing`, `feat: build inverted index`, `feat: implement search ranking`, `feat: add result snippets`, `feat: add Django search interface`, `test: add indexer tests`, `ci: add GitHub Actions workflow`, `docs: update project documentation`.
+Fresh repo in project dir, remote `origin https://github.com/Tanishqnarayan/ScholarSeek-.git`. Conventional commits: `feat:`, `test:`, `ci:`, `docs:`. Example history: `feat: add document loader`, `feat: implement text preprocessing`, `feat: build inverted index`, `feat: implement search ranking`, `feat: add result snippets`, `feat: add Django search interface`, `test: add indexer tests`, `ci: add GitHub Actions workflow`, `docs: update project documentation`.
 
 ## 19. Agile methodology
 Scrum, 4×1-week sprints, 12 stories (53 pts). Artifacts in `docs/agile/`: `backlog.md` (stories/points/priorities, product + sprint backlogs, kanban columns, burndown procedure), `definition_of_done.md`, `github-setup.md`, `burndown.json/.csv/.svg`.

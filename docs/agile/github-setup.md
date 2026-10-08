@@ -2,7 +2,7 @@
 
 GitHub Projects/Issues cannot be created from this sandbox, so do this once:
 
-1. Push repo to https://github.com/Tanishqnarayan/ScholarSeek
+1. Push repo to https://github.com/Tanishqnarayan/ScholarSeek-.git (already pushed).
 2. Create Project (Board): `ScholarSeek Kanban` with columns:
    BACKLOG, TODO, IN PROGRESS, CODE REVIEW, TESTING, DONE.
 3. Create labels: `feature`, `bug`, `testing`, `documentation`,
