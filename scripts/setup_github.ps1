@@ -4,6 +4,17 @@
 param([string]$Repo = "Tanishqnarayan/ScholarSeek-")
 
 $ErrorActionPreference = "Continue"
+
+# Ensure gh CLI is reachable in this session even when PATH is stale
+# (e.g. terminal opened before the PATH update or winget install).
+if (-not (Get-Command gh -ErrorAction SilentlyContinue)) {
+  $fallback = "C:\Program Files\GitHub CLI\gh.exe"
+  if (Test-Path $fallback) { $env:Path = "C:\Program Files\GitHub CLI;" + $env:Path }
+}
+if (-not (Get-Command gh -ErrorAction SilentlyContinue)) {
+  Write-Host "gh CLI not found. Install it (winget install --id GitHub.cli -e), restart the terminal, then re-run." -ForegroundColor Red
+  return
+}
 function Step($msg) { Write-Host "`n==> $msg" -ForegroundColor Cyan }
 
 # 1. Labels ----------------------------------------------------------------
