@@ -1,0 +1,2706 @@
+{
+  "index": {
+    "algorithms": [
+      "5f99a34fc81e",
+      "a0928b1a9e69",
+      "e55ef712e264"
+    ],
+    "design": [
+      "74cd817c3420",
+      "a0928b1a9e69",
+      "fac79b61bb0e"
+    ],
+    "analysis": [
+      "5dd1fab4f415",
+      "a0928b1a9e69",
+      "fac79b61bb0e"
+    ],
+    "notes": [
+      "5dd1fab4f415",
+      "5f99a34fc81e",
+      "74cd817c3420",
+      "a0928b1a9e69",
+      "b6bad5a68eba",
+      "b74912f4f80b",
+      "e55ef712e264",
+      "fac79b61bb0e"
+    ],
+    "algorithm": [
+      "5f99a34fc81e",
+      "a0928b1a9e69"
+    ],
+    "step": [
+      "a0928b1a9e69"
+    ],
+    "procedure": [
+      "a0928b1a9e69"
+    ],
+    "solving": [
+      "a0928b1a9e69"
+    ],
+    "problem": [
+      "5f99a34fc81e",
+      "a0928b1a9e69"
+    ],
+    "measures": [
+      "a0928b1a9e69"
+    ],
+    "time": [
+      "a0928b1a9e69",
+      "e55ef712e264"
+    ],
+    "complexity": [
+      "a0928b1a9e69",
+      "e55ef712e264"
+    ],
+    "space": [
+      "a0928b1a9e69",
+      "e55ef712e264"
+    ],
+    "often": [
+      "a0928b1a9e69"
+    ],
+    "expressed": [
+      "a0928b1a9e69"
+    ],
+    "big": [
+      "a0928b1a9e69"
+    ],
+    "notation": [
+      "a0928b1a9e69"
+    ],
+    "common": [
+      "5dd1fab4f415",
+      "74cd817c3420",
+      "a0928b1a9e69",
+      "b6bad5a68eba",
+      "e55ef712e264",
+      "fac79b61bb0e"
+    ],
+    "complexities": [
+      "a0928b1a9e69"
+    ],
+    "include": [
+      "5dd1fab4f415",
+      "5f99a34fc81e",
+      "74cd817c3420",
+      "a0928b1a9e69",
+      "b6bad5a68eba",
+      "e55ef712e264",
+      "fac79b61bb0e"
+    ],
+    "constant": [
+      "a0928b1a9e69",
+      "e55ef712e264"
+    ],
+    "logarithmic": [
+      "a0928b1a9e69"
+    ],
+    "linear": [
+      "a0928b1a9e69"
+    ],
+    "linearithmic": [
+      "a0928b1a9e69"
+    ],
+    "quadratic": [
+      "a0928b1a9e69"
+    ],
+    "exponential": [
+      "a0928b1a9e69"
+    ],
+    "sorting": [
+      "a0928b1a9e69"
+    ],
+    "bubble": [
+      "a0928b1a9e69"
+    ],
+    "sort": [
+      "a0928b1a9e69"
+    ],
+    "selection": [
+      "a0928b1a9e69"
+    ],
+    "insertion": [
+      "a0928b1a9e69"
+    ],
+    "merge": [
+      "a0928b1a9e69"
+    ],
+    "quick": [
+      "a0928b1a9e69"
+    ],
+    "heap": [
+      "a0928b1a9e69"
+    ],
+    "use": [
+      "a0928b1a9e69",
+      "e55ef712e264"
+    ],
+    "divide": [
+      "a0928b1a9e69"
+    ],
+    "conquer": [
+      "a0928b1a9e69"
+    ],
+    "average": [
+      "a0928b1a9e69",
+      "e55ef712e264"
+    ],
+    "log": [
+      "a0928b1a9e69"
+    ],
+    "searching": [
+      "a0928b1a9e69"
+    ],
+    "search": [
+      "a0928b1a9e69",
+      "e55ef712e264"
+    ],
+    "binary": [
+      "a0928b1a9e69",
+      "e55ef712e264"
+    ],
+    "requires": [
+      "a0928b1a9e69"
+    ],
+    "sorted": [
+      "a0928b1a9e69"
+    ],
+    "data": [
+      "5dd1fab4f415",
+      "74cd817c3420",
+      "a0928b1a9e69",
+      "b6bad5a68eba",
+      "b74912f4f80b",
+      "e55ef712e264"
+    ],
+    "runs": [
+      "a0928b1a9e69",
+      "fac79b61bb0e"
+    ],
+    "paradigms": [
+      "5dd1fab4f415",
+      "a0928b1a9e69"
+    ],
+    "greedy": [
+      "a0928b1a9e69"
+    ],
+    "dynamic": [
+      "5dd1fab4f415",
+      "a0928b1a9e69"
+    ],
+    "programming": [
+      "5dd1fab4f415",
+      "a0928b1a9e69",
+      "b6bad5a68eba",
+      "b74912f4f80b"
+    ],
+    "backtracking": [
+      "a0928b1a9e69"
+    ],
+    "dijkstra": [
+      "a0928b1a9e69"
+    ],
+    "finds": [
+      "a0928b1a9e69"
+    ],
+    "shortest": [
+      "5f99a34fc81e",
+      "a0928b1a9e69"
+    ],
+    "paths": [
+      "a0928b1a9e69"
+    ],
+    "graphs": [
+      "5f99a34fc81e",
+      "a0928b1a9e69",
+      "e55ef712e264"
+    ],
+    "depth": [
+      "a0928b1a9e69"
+    ],
+    "first": [
+      "5dd1fab4f415",
+      "5f99a34fc81e",
+      "74cd817c3420",
+      "a0928b1a9e69",
+      "e55ef712e264"
+    ],
+    "breadth": [
+      "a0928b1a9e69"
+    ],
+    "traverse": [
+      "a0928b1a9e69"
+    ],
+    "trees": [
+      "a0928b1a9e69",
+      "e55ef712e264"
+    ],
+    "recursion": [
+      "a0928b1a9e69"
+    ],
+    "technique": [
+      "a0928b1a9e69"
+    ],
+    "function": [
+      "5dd1fab4f415",
+      "a0928b1a9e69",
+      "e55ef712e264"
+    ],
+    "calls": [
+      "a0928b1a9e69"
+    ],
+    "itself": [
+      "a0928b1a9e69"
+    ],
+    "base": [
+      "a0928b1a9e69"
+    ],
+    "case": [
+      "a0928b1a9e69"
+    ],
+    "terminate": [
+      "a0928b1a9e69"
+    ],
+    "efficient": [
+      "5dd1fab4f415",
+      "a0928b1a9e69",
+      "e55ef712e264"
+    ],
+    "depend": [
+      "a0928b1a9e69"
+    ],
+    "appropriate": [
+      "a0928b1a9e69"
+    ],
+    "structures": [
+      "5dd1fab4f415",
+      "a0928b1a9e69",
+      "e55ef712e264"
+    ],
+    "hash": [
+      "a0928b1a9e69",
+      "e55ef712e264"
+    ],
+    "tables": [
+      "74cd817c3420",
+      "a0928b1a9e69",
+      "b74912f4f80b",
+      "e55ef712e264"
+    ],
+    "heaps": [
+      "a0928b1a9e69",
+      "e55ef712e264"
+    ],
+    "balanced": [
+      "a0928b1a9e69"
+    ],
+    "ranking": [
+      "a0928b1a9e69"
+    ],
+    "documents": [
+      "a0928b1a9e69"
+    ],
+    "relies": [
+      "a0928b1a9e69"
+    ],
+    "scoring": [
+      "a0928b1a9e69"
+    ],
+    "results": [
+      "a0928b1a9e69",
+      "b74912f4f80b"
+    ],
+    "relevance": [
+      "a0928b1a9e69"
+    ],
+    "study": [
+      "e55ef712e264"
+    ],
+    "organize": [
+      "5dd1fab4f415",
+      "e55ef712e264"
+    ],
+    "store": [
+      "5dd1fab4f415",
+      "e55ef712e264"
+    ],
+    "efficiently": [
+      "e55ef712e264"
+    ],
+    "arrays": [
+      "e55ef712e264"
+    ],
+    "linked": [
+      "e55ef712e264"
+    ],
+    "lists": [
+      "5dd1fab4f415",
+      "e55ef712e264"
+    ],
+    "stacks": [
+      "e55ef712e264"
+    ],
+    "queues": [
+      "5f99a34fc81e",
+      "e55ef712e264"
+    ],
+    "structure": [
+      "e55ef712e264"
+    ],
+    "trade": [
+      "e55ef712e264"
+    ],
+    "offs": [
+      "e55ef712e264"
+    ],
+    "stack": [
+      "e55ef712e264"
+    ],
+    "follows": [
+      "5dd1fab4f415",
+      "e55ef712e264",
+      "fac79b61bb0e"
+    ],
+    "last": [
+      "e55ef712e264"
+    ],
+    "out": [
+      "e55ef712e264"
+    ],
+    "order": [
+      "b74912f4f80b",
+      "e55ef712e264"
+    ],
+    "push": [
+      "e55ef712e264",
+      "fac79b61bb0e"
+    ],
+    "pop": [
+      "e55ef712e264"
+    ],
+    "operations": [
+      "74cd817c3420",
+      "e55ef712e264"
+    ],
+    "queue": [
+      "e55ef712e264"
+    ],
+    "enqueue": [
+      "e55ef712e264"
+    ],
+    "dequeue": [
+      "e55ef712e264"
+    ],
+    "list": [
+      "5dd1fab4f415",
+      "e55ef712e264"
+    ],
+    "consists": [
+      "e55ef712e264"
+    ],
+    "nodes": [
+      "e55ef712e264"
+    ],
+    "node": [
+      "e55ef712e264"
+    ],
+    "stores": [
+      "b74912f4f80b",
+      "e55ef712e264"
+    ],
+    "reference": [
+      "e55ef712e264"
+    ],
+    "next": [
+      "e55ef712e264"
+    ],
+    "doubly": [
+      "e55ef712e264"
+    ],
+    "previous": [
+      "e55ef712e264"
+    ],
+    "hierarchical": [
+      "e55ef712e264"
+    ],
+    "root": [
+      "e55ef712e264"
+    ],
+    "child": [
+      "e55ef712e264"
+    ],
+    "leaf": [
+      "e55ef712e264"
+    ],
+    "restrict": [
+      "e55ef712e264"
+    ],
+    "two": [
+      "e55ef712e264"
+    ],
+    "children": [
+      "e55ef712e264"
+    ],
+    "maintain": [
+      "e55ef712e264",
+      "fac79b61bb0e"
+    ],
+    "ordering": [
+      "e55ef712e264"
+    ],
+    "fast": [
+      "e55ef712e264"
+    ],
+    "lookup": [
+      "e55ef712e264"
+    ],
+    "consist": [
+      "e55ef712e264"
+    ],
+    "vertices": [
+      "e55ef712e264"
+    ],
+    "edges": [
+      "e55ef712e264"
+    ],
+    "directed": [
+      "e55ef712e264"
+    ],
+    "undirected": [
+      "e55ef712e264"
+    ],
+    "map": [
+      "b74912f4f80b",
+      "e55ef712e264"
+    ],
+    "keys": [
+      "74cd817c3420",
+      "e55ef712e264"
+    ],
+    "buckets": [
+      "e55ef712e264"
+    ],
+    "providing": [
+      "e55ef712e264"
+    ],
+    "understanding": [
+      "b74912f4f80b",
+      "e55ef712e264"
+    ],
+    "essential": [
+      "5f99a34fc81e",
+      "e55ef712e264"
+    ],
+    "database": [
+      "5dd1fab4f415",
+      "74cd817c3420",
+      "b74912f4f80b",
+      "e55ef712e264"
+    ],
+    "indexing": [
+      "74cd817c3420",
+      "e55ef712e264"
+    ],
+    "operating": [
+      "5f99a34fc81e",
+      "e55ef712e264"
+    ],
+    "systems": [
+      "5f99a34fc81e",
+      "74cd817c3420",
+      "e55ef712e264"
+    ],
+    "python": [
+      "5dd1fab4f415",
+      "b6bad5a68eba",
+      "b74912f4f80b",
+      "e55ef712e264"
+    ],
+    "tuples": [
+      "5dd1fab4f415",
+      "e55ef712e264"
+    ],
+    "sets": [
+      "5dd1fab4f415",
+      "e55ef712e264"
+    ],
+    "dictionaries": [
+      "5dd1fab4f415",
+      "e55ef712e264"
+    ],
+    "built": [
+      "e55ef712e264"
+    ],
+    "implemented": [
+      "e55ef712e264"
+    ],
+    "management": [
+      "5dd1fab4f415",
+      "5f99a34fc81e",
+      "74cd817c3420"
+    ],
+    "dbms": [
+      "74cd817c3420",
+      "b74912f4f80b"
+    ],
+    "organized": [
+      "74cd817c3420"
+    ],
+    "collection": [
+      "74cd817c3420"
+    ],
+    "system": [
+      "5f99a34fc81e",
+      "74cd817c3420",
+      "fac79b61bb0e"
+    ],
+    "software": [
+      "5f99a34fc81e",
+      "74cd817c3420",
+      "fac79b61bb0e"
+    ],
+    "manages": [
+      "5f99a34fc81e",
+      "74cd817c3420"
+    ],
+    "databases": [
+      "74cd817c3420",
+      "b74912f4f80b"
+    ],
+    "provides": [
+      "5dd1fab4f415",
+      "74cd817c3420"
+    ],
+    "interface": [
+      "74cd817c3420"
+    ],
+    "users": [
+      "5f99a34fc81e",
+      "74cd817c3420"
+    ],
+    "applications": [
+      "74cd817c3420",
+      "b6bad5a68eba"
+    ],
+    "examples": [
+      "74cd817c3420"
+    ],
+    "mysql": [
+      "74cd817c3420",
+      "b74912f4f80b"
+    ],
+    "postgresql": [
+      "74cd817c3420"
+    ],
+    "sqlite": [
+      "74cd817c3420"
+    ],
+    "normalization": [
+      "74cd817c3420",
+      "b74912f4f80b"
+    ],
+    "process": [
+      "5f99a34fc81e",
+      "74cd817c3420",
+      "fac79b61bb0e"
+    ],
+    "reduces": [
+      "74cd817c3420"
+    ],
+    "redundancy": [
+      "74cd817c3420"
+    ],
+    "improves": [
+      "74cd817c3420"
+    ],
+    "consistency": [
+      "74cd817c3420"
+    ],
+    "organizing": [
+      "74cd817c3420"
+    ],
+    "involves": [
+      "74cd817c3420"
+    ],
+    "dividing": [
+      "74cd817c3420"
+    ],
+    "large": [
+      "5dd1fab4f415",
+      "74cd817c3420"
+    ],
+    "smaller": [
+      "74cd817c3420"
+    ],
+    "defining": [
+      "74cd817c3420"
+    ],
+    "relationships": [
+      "74cd817c3420"
+    ],
+    "between": [
+      "5f99a34fc81e",
+      "74cd817c3420"
+    ],
+    "normal": [
+      "74cd817c3420"
+    ],
+    "forms": [
+      "74cd817c3420"
+    ],
+    "form": [
+      "74cd817c3420"
+    ],
+    "second": [
+      "74cd817c3420"
+    ],
+    "third": [
+      "74cd817c3420"
+    ],
+    "primary": [
+      "74cd817c3420",
+      "b74912f4f80b"
+    ],
+    "foreign": [
+      "74cd817c3420"
+    ],
+    "structured": [
+      "74cd817c3420"
+    ],
+    "query": [
+      "74cd817c3420",
+      "b74912f4f80b"
+    ],
+    "language": [
+      "5dd1fab4f415",
+      "74cd817c3420",
+      "b74912f4f80b"
+    ],
+    "sql": [
+      "74cd817c3420",
+      "b74912f4f80b"
+    ],
+    "used": [
+      "5dd1fab4f415",
+      "74cd817c3420",
+      "b6bad5a68eba"
+    ],
+    "manipulate": [
+      "74cd817c3420"
+    ],
+    "commands": [
+      "74cd817c3420"
+    ],
+    "select": [
+      "74cd817c3420",
+      "b74912f4f80b"
+    ],
+    "insert": [
+      "74cd817c3420"
+    ],
+    "update": [
+      "74cd817c3420"
+    ],
+    "delete": [
+      "74cd817c3420"
+    ],
+    "create": [
+      "5dd1fab4f415",
+      "74cd817c3420"
+    ],
+    "table": [
+      "74cd817c3420",
+      "b74912f4f80b"
+    ],
+    "join": [
+      "74cd817c3420",
+      "b74912f4f80b"
+    ],
+    "index": [
+      "74cd817c3420"
+    ],
+    "speeds": [
+      "74cd817c3420"
+    ],
+    "up": [
+      "74cd817c3420"
+    ],
+    "retrieval": [
+      "74cd817c3420"
+    ],
+    "transactions": [
+      "74cd817c3420",
+      "b74912f4f80b"
+    ],
+    "ensure": [
+      "74cd817c3420"
+    ],
+    "acid": [
+      "74cd817c3420"
+    ],
+    "properties": [
+      "74cd817c3420"
+    ],
+    "atomicity": [
+      "74cd817c3420"
+    ],
+    "isolation": [
+      "74cd817c3420"
+    ],
+    "durability": [
+      "74cd817c3420"
+    ],
+    "entity": [
+      "74cd817c3420"
+    ],
+    "relationship": [
+      "74cd817c3420"
+    ],
+    "model": [
+      "5dd1fab4f415",
+      "74cd817c3420",
+      "b6bad5a68eba"
+    ],
+    "describes": [
+      "74cd817c3420"
+    ],
+    "entities": [
+      "74cd817c3420"
+    ],
+    "attributes": [
+      "74cd817c3420"
+    ],
+    "uniquely": [
+      "74cd817c3420",
+      "b74912f4f80b"
+    ],
+    "identify": [
+      "74cd817c3420"
+    ],
+    "rows": [
+      "74cd817c3420",
+      "b74912f4f80b"
+    ],
+    "link": [
+      "74cd817c3420",
+      "b6bad5a68eba"
+    ],
+    "together": [
+      "74cd817c3420",
+      "b74912f4f80b"
+    ],
+    "concurrency": [
+      "74cd817c3420"
+    ],
+    "control": [
+      "74cd817c3420",
+      "b6bad5a68eba",
+      "fac79b61bb0e"
+    ],
+    "deadlock": [
+      "5f99a34fc81e",
+      "74cd817c3420"
+    ],
+    "handling": [
+      "5dd1fab4f415",
+      "74cd817c3420",
+      "b74912f4f80b"
+    ],
+    "important": [
+      "74cd817c3420"
+    ],
+    "multi": [
+      "74cd817c3420"
+    ],
+    "user": [
+      "74cd817c3420",
+      "fac79b61bb0e"
+    ],
+    "optimization": [
+      "74cd817c3420"
+    ],
+    "schema": [
+      "74cd817c3420",
+      "b74912f4f80b"
+    ],
+    "affect": [
+      "74cd817c3420"
+    ],
+    "performance": [
+      "74cd817c3420"
+    ],
+    "computer": [
+      "b6bad5a68eba"
+    ],
+    "networks": [
+      "b6bad5a68eba"
+    ],
+    "networking": [
+      "b6bad5a68eba"
+    ],
+    "network": [
+      "b6bad5a68eba"
+    ],
+    "connects": [
+      "b6bad5a68eba"
+    ],
+    "devices": [
+      "b6bad5a68eba"
+    ],
+    "share": [
+      "5f99a34fc81e",
+      "b6bad5a68eba"
+    ],
+    "osi": [
+      "b6bad5a68eba"
+    ],
+    "seven": [
+      "b6bad5a68eba"
+    ],
+    "layers": [
+      "b6bad5a68eba"
+    ],
+    "physical": [
+      "b6bad5a68eba"
+    ],
+    "transport": [
+      "b6bad5a68eba"
+    ],
+    "session": [
+      "b6bad5a68eba"
+    ],
+    "presentation": [
+      "b6bad5a68eba"
+    ],
+    "application": [
+      "b6bad5a68eba"
+    ],
+    "tcp": [
+      "b6bad5a68eba"
+    ],
+    "ip": [
+      "b6bad5a68eba"
+    ],
+    "simplifies": [
+      "b6bad5a68eba"
+    ],
+    "four": [
+      "5f99a34fc81e",
+      "b6bad5a68eba"
+    ],
+    "addressing": [
+      "b6bad5a68eba"
+    ],
+    "routing": [
+      "b6bad5a68eba"
+    ],
+    "move": [
+      "b6bad5a68eba"
+    ],
+    "packets": [
+      "b6bad5a68eba"
+    ],
+    "across": [
+      "b6bad5a68eba"
+    ],
+    "reliable": [
+      "b6bad5a68eba",
+      "fac79b61bb0e"
+    ],
+    "connection": [
+      "b6bad5a68eba"
+    ],
+    "oriented": [
+      "5dd1fab4f415",
+      "b6bad5a68eba"
+    ],
+    "protocol": [
+      "b6bad5a68eba"
+    ],
+    "acknowledgments": [
+      "b6bad5a68eba"
+    ],
+    "retransmission": [
+      "b6bad5a68eba"
+    ],
+    "udp": [
+      "b6bad5a68eba"
+    ],
+    "faster": [
+      "b6bad5a68eba"
+    ],
+    "connectionless": [
+      "b6bad5a68eba"
+    ],
+    "streaming": [
+      "b6bad5a68eba"
+    ],
+    "http": [
+      "b6bad5a68eba"
+    ],
+    "https": [
+      "b6bad5a68eba"
+    ],
+    "operate": [
+      "b6bad5a68eba"
+    ],
+    "layer": [
+      "b6bad5a68eba"
+    ],
+    "web": [
+      "5dd1fab4f415",
+      "b6bad5a68eba"
+    ],
+    "dns": [
+      "b6bad5a68eba"
+    ],
+    "resolves": [
+      "b6bad5a68eba"
+    ],
+    "domain": [
+      "b6bad5a68eba"
+    ],
+    "names": [
+      "b6bad5a68eba"
+    ],
+    "addresses": [
+      "b6bad5a68eba"
+    ],
+    "dhcp": [
+      "b6bad5a68eba"
+    ],
+    "assigns": [
+      "b6bad5a68eba"
+    ],
+    "automatically": [
+      "b6bad5a68eba"
+    ],
+    "hubs": [
+      "b6bad5a68eba"
+    ],
+    "switches": [
+      "b6bad5a68eba"
+    ],
+    "routers": [
+      "b6bad5a68eba"
+    ],
+    "firewalls": [
+      "b6bad5a68eba"
+    ],
+    "ethernet": [
+      "b6bad5a68eba"
+    ],
+    "wifi": [
+      "b6bad5a68eba"
+    ],
+    "technologies": [
+      "b6bad5a68eba"
+    ],
+    "congestion": [
+      "b6bad5a68eba"
+    ],
+    "flow": [
+      "b6bad5a68eba"
+    ],
+    "error": [
+      "b6bad5a68eba"
+    ],
+    "detection": [
+      "5f99a34fc81e",
+      "b6bad5a68eba"
+    ],
+    "improve": [
+      "b6bad5a68eba",
+      "b74912f4f80b"
+    ],
+    "reliability": [
+      "b6bad5a68eba"
+    ],
+    "socket": [
+      "b6bad5a68eba"
+    ],
+    "allows": [
+      "b6bad5a68eba"
+    ],
+    "building": [
+      "b6bad5a68eba"
+    ],
+    "client": [
+      "b6bad5a68eba"
+    ],
+    "server": [
+      "b6bad5a68eba"
+    ],
+    "over": [
+      "5dd1fab4f415",
+      "b6bad5a68eba",
+      "fac79b61bb0e"
+    ],
+    "security": [
+      "b6bad5a68eba"
+    ],
+    "uses": [
+      "5dd1fab4f415",
+      "5f99a34fc81e",
+      "b6bad5a68eba"
+    ],
+    "encryption": [
+      "b6bad5a68eba"
+    ],
+    "authentication": [
+      "b6bad5a68eba"
+    ],
+    "protect": [
+      "b6bad5a68eba"
+    ],
+    "os": [
+      "5f99a34fc81e"
+    ],
+    "hardware": [
+      "5f99a34fc81e"
+    ],
+    "resources": [
+      "5f99a34fc81e"
+    ],
+    "acts": [
+      "5f99a34fc81e"
+    ],
+    "intermediary": [
+      "5f99a34fc81e"
+    ],
+    "core": [
+      "5f99a34fc81e"
+    ],
+    "functions": [
+      "5dd1fab4f415",
+      "5f99a34fc81e"
+    ],
+    "memory": [
+      "5dd1fab4f415",
+      "5f99a34fc81e"
+    ],
+    "file": [
+      "5dd1fab4f415",
+      "5f99a34fc81e"
+    ],
+    "device": [
+      "5f99a34fc81e"
+    ],
+    "program": [
+      "5f99a34fc81e"
+    ],
+    "execution": [
+      "5f99a34fc81e"
+    ],
+    "scheduling": [
+      "5f99a34fc81e"
+    ],
+    "come": [
+      "5f99a34fc81e"
+    ],
+    "served": [
+      "5f99a34fc81e"
+    ],
+    "job": [
+      "5f99a34fc81e"
+    ],
+    "round": [
+      "5f99a34fc81e"
+    ],
+    "robin": [
+      "5f99a34fc81e"
+    ],
+    "priority": [
+      "5f99a34fc81e"
+    ],
+    "inter": [
+      "5f99a34fc81e"
+    ],
+    "communication": [
+      "5f99a34fc81e"
+    ],
+    "pipes": [
+      "5f99a34fc81e"
+    ],
+    "message": [
+      "5f99a34fc81e"
+    ],
+    "shared": [
+      "5f99a34fc81e"
+    ],
+    "threads": [
+      "5f99a34fc81e"
+    ],
+    "within": [
+      "5f99a34fc81e"
+    ],
+    "enable": [
+      "5f99a34fc81e"
+    ],
+    "concurrent": [
+      "5f99a34fc81e"
+    ],
+    "occurs": [
+      "5f99a34fc81e"
+    ],
+    "processes": [
+      "5f99a34fc81e"
+    ],
+    "wait": [
+      "5f99a34fc81e"
+    ],
+    "held": [
+      "5f99a34fc81e"
+    ],
+    "prevention": [
+      "5f99a34fc81e"
+    ],
+    "coffman": [
+      "5f99a34fc81e"
+    ],
+    "conditions": [
+      "5f99a34fc81e"
+    ],
+    "mutual": [
+      "5f99a34fc81e"
+    ],
+    "exclusion": [
+      "5f99a34fc81e"
+    ],
+    "hold": [
+      "5f99a34fc81e"
+    ],
+    "preemption": [
+      "5f99a34fc81e"
+    ],
+    "circular": [
+      "5f99a34fc81e"
+    ],
+    "examine": [
+      "5f99a34fc81e"
+    ],
+    "resource": [
+      "5f99a34fc81e"
+    ],
+    "allocation": [
+      "5f99a34fc81e"
+    ],
+    "banker": [
+      "5f99a34fc81e"
+    ],
+    "avoids": [
+      "5f99a34fc81e"
+    ],
+    "safe": [
+      "5f99a34fc81e"
+    ],
+    "state": [
+      "5f99a34fc81e"
+    ],
+    "checks": [
+      "5f99a34fc81e"
+    ],
+    "paging": [
+      "5f99a34fc81e"
+    ],
+    "segmentation": [
+      "5f99a34fc81e"
+    ],
+    "virtual": [
+      "5f99a34fc81e"
+    ],
+    "organizes": [
+      "5f99a34fc81e",
+      "b74912f4f80b"
+    ],
+    "files": [
+      "5f99a34fc81e"
+    ],
+    "directories": [
+      "5f99a34fc81e"
+    ],
+    "synchronization": [
+      "5f99a34fc81e"
+    ],
+    "problems": [
+      "5f99a34fc81e"
+    ],
+    "critical": [
+      "5f99a34fc81e"
+    ],
+    "section": [
+      "5f99a34fc81e"
+    ],
+    "semaphores": [
+      "5f99a34fc81e"
+    ],
+    "monitors": [
+      "5f99a34fc81e"
+    ],
+    "readers": [
+      "5f99a34fc81e"
+    ],
+    "writers": [
+      "5f99a34fc81e"
+    ],
+    "popular": [
+      "5f99a34fc81e"
+    ],
+    "linux": [
+      "5f99a34fc81e"
+    ],
+    "windows": [
+      "5f99a34fc81e"
+    ],
+    "macos": [
+      "5f99a34fc81e"
+    ],
+    "introduction": [
+      "5dd1fab4f415"
+    ],
+    "high": [
+      "5dd1fab4f415"
+    ],
+    "level": [
+      "5dd1fab4f415"
+    ],
+    "known": [
+      "5dd1fab4f415"
+    ],
+    "simplicity": [
+      "5dd1fab4f415"
+    ],
+    "readability": [
+      "5dd1fab4f415"
+    ],
+    "created": [
+      "5dd1fab4f415"
+    ],
+    "guido": [
+      "5dd1fab4f415"
+    ],
+    "van": [
+      "5dd1fab4f415"
+    ],
+    "rossum": [
+      "5dd1fab4f415"
+    ],
+    "released": [
+      "5dd1fab4f415"
+    ],
+    "1991": [
+      "5dd1fab4f415"
+    ],
+    "supports": [
+      "5dd1fab4f415"
+    ],
+    "multiple": [
+      "5dd1fab4f415"
+    ],
+    "including": [
+      "5dd1fab4f415"
+    ],
+    "procedural": [
+      "5dd1fab4f415"
+    ],
+    "object": [
+      "5dd1fab4f415"
+    ],
+    "functional": [
+      "5dd1fab4f415"
+    ],
+    "interpreted": [
+      "5dd1fab4f415"
+    ],
+    "means": [
+      "5dd1fab4f415"
+    ],
+    "code": [
+      "5dd1fab4f415",
+      "fac79b61bb0e"
+    ],
+    "executed": [
+      "5dd1fab4f415"
+    ],
+    "line": [
+      "5dd1fab4f415"
+    ],
+    "interpreter": [
+      "5dd1fab4f415"
+    ],
+    "typing": [
+      "5dd1fab4f415"
+    ],
+    "automatic": [
+      "5dd1fab4f415"
+    ],
+    "standard": [
+      "5dd1fab4f415",
+      "b74912f4f80b"
+    ],
+    "library": [
+      "5dd1fab4f415"
+    ],
+    "mutable": [
+      "5dd1fab4f415"
+    ],
+    "ordered": [
+      "5dd1fab4f415"
+    ],
+    "sequences": [
+      "5dd1fab4f415"
+    ],
+    "immutable": [
+      "5dd1fab4f415"
+    ],
+    "unique": [
+      "5dd1fab4f415"
+    ],
+    "unordered": [
+      "5dd1fab4f415"
+    ],
+    "elements": [
+      "5dd1fab4f415"
+    ],
+    "key": [
+      "5dd1fab4f415",
+      "b74912f4f80b"
+    ],
+    "value": [
+      "5dd1fab4f415"
+    ],
+    "pairs": [
+      "5dd1fab4f415"
+    ],
+    "defined": [
+      "5dd1fab4f415"
+    ],
+    "def": [
+      "5dd1fab4f415"
+    ],
+    "keyword": [
+      "5dd1fab4f415"
+    ],
+    "lambda": [
+      "5dd1fab4f415"
+    ],
+    "provide": [
+      "5dd1fab4f415"
+    ],
+    "way": [
+      "5dd1fab4f415"
+    ],
+    "small": [
+      "5dd1fab4f415"
+    ],
+    "anonymous": [
+      "5dd1fab4f415"
+    ],
+    "comprehensions": [
+      "5dd1fab4f415"
+    ],
+    "offer": [
+      "5dd1fab4f415"
+    ],
+    "concise": [
+      "5dd1fab4f415"
+    ],
+    "iterators": [
+      "5dd1fab4f415"
+    ],
+    "generators": [
+      "5dd1fab4f415"
+    ],
+    "allow": [
+      "5dd1fab4f415"
+    ],
+    "iteration": [
+      "5dd1fab4f415"
+    ],
+    "using": [
+      "5dd1fab4f415",
+      "fac79b61bb0e"
+    ],
+    "yield": [
+      "5dd1fab4f415"
+    ],
+    "produce": [
+      "5dd1fab4f415"
+    ],
+    "values": [
+      "5dd1fab4f415"
+    ],
+    "lazily": [
+      "5dd1fab4f415"
+    ],
+    "exception": [
+      "5dd1fab4f415",
+      "b74912f4f80b"
+    ],
+    "try": [
+      "5dd1fab4f415"
+    ],
+    "except": [
+      "5dd1fab4f415"
+    ],
+    "finally": [
+      "5dd1fab4f415"
+    ],
+    "blocks": [
+      "5dd1fab4f415"
+    ],
+    "done": [
+      "5dd1fab4f415",
+      "fac79b61bb0e"
+    ],
+    "open": [
+      "5dd1fab4f415"
+    ],
+    "supporting": [
+      "5dd1fab4f415"
+    ],
+    "read": [
+      "5dd1fab4f415"
+    ],
+    "write": [
+      "5dd1fab4f415"
+    ],
+    "append": [
+      "5dd1fab4f415"
+    ],
+    "modes": [
+      "5dd1fab4f415"
+    ],
+    "modules": [
+      "5dd1fab4f415"
+    ],
+    "packages": [
+      "5dd1fab4f415"
+    ],
+    "help": [
+      "5dd1fab4f415"
+    ],
+    "supported": [
+      "5dd1fab4f415"
+    ],
+    "classes": [
+      "5dd1fab4f415",
+      "b74912f4f80b"
+    ],
+    "inheritance": [
+      "5dd1fab4f415"
+    ],
+    "polymorphism": [
+      "5dd1fab4f415"
+    ],
+    "widely": [
+      "5dd1fab4f415"
+    ],
+    "development": [
+      "5dd1fab4f415",
+      "fac79b61bb0e"
+    ],
+    "frameworks": [
+      "5dd1fab4f415",
+      "fac79b61bb0e"
+    ],
+    "like": [
+      "5dd1fab4f415",
+      "fac79b61bb0e"
+    ],
+    "django": [
+      "5dd1fab4f415",
+      "b74912f4f80b"
+    ],
+    "automation": [
+      "5dd1fab4f415"
+    ],
+    "scripting": [
+      "5dd1fab4f415"
+    ],
+    "framework": [
+      "5dd1fab4f415"
+    ],
+    "template": [
+      "5dd1fab4f415"
+    ],
+    "view": [
+      "5dd1fab4f415"
+    ],
+    "pattern": [
+      "5dd1fab4f415"
+    ],
+    "relational": [
+      "5dd1fab4f415",
+      "b74912f4f80b"
+    ],
+    "mapper": [
+      "5dd1fab4f415"
+    ],
+    "access": [
+      "5dd1fab4f415"
+    ],
+    "engineering": [
+      "fac79b61bb0e"
+    ],
+    "se": [
+      "fac79b61bb0e"
+    ],
+    "applies": [
+      "fac79b61bb0e"
+    ],
+    "systematic": [
+      "fac79b61bb0e"
+    ],
+    "methods": [
+      "fac79b61bb0e"
+    ],
+    "build": [
+      "fac79b61bb0e"
+    ],
+    "life": [
+      "fac79b61bb0e"
+    ],
+    "cycle": [
+      "fac79b61bb0e"
+    ],
+    "includes": [
+      "fac79b61bb0e"
+    ],
+    "requirement": [
+      "fac79b61bb0e"
+    ],
+    "implementation": [
+      "fac79b61bb0e"
+    ],
+    "testing": [
+      "fac79b61bb0e"
+    ],
+    "deployment": [
+      "fac79b61bb0e"
+    ],
+    "maintenance": [
+      "fac79b61bb0e"
+    ],
+    "models": [
+      "b74912f4f80b",
+      "fac79b61bb0e"
+    ],
+    "waterfall": [
+      "fac79b61bb0e"
+    ],
+    "iterative": [
+      "fac79b61bb0e"
+    ],
+    "spiral": [
+      "fac79b61bb0e"
+    ],
+    "agile": [
+      "fac79b61bb0e"
+    ],
+    "methodologies": [
+      "fac79b61bb0e"
+    ],
+    "sprints": [
+      "fac79b61bb0e"
+    ],
+    "product": [
+      "fac79b61bb0e"
+    ],
+    "backlog": [
+      "fac79b61bb0e"
+    ],
+    "sprint": [
+      "fac79b61bb0e"
+    ],
+    "stories": [
+      "fac79b61bb0e"
+    ],
+    "story": [
+      "fac79b61bb0e"
+    ],
+    "points": [
+      "fac79b61bb0e"
+    ],
+    "daily": [
+      "fac79b61bb0e"
+    ],
+    "standups": [
+      "fac79b61bb0e"
+    ],
+    "reviews": [
+      "fac79b61bb0e"
+    ],
+    "retrospectives": [
+      "fac79b61bb0e"
+    ],
+    "scrum": [
+      "fac79b61bb0e"
+    ],
+    "defines": [
+      "fac79b61bb0e"
+    ],
+    "roles": [
+      "fac79b61bb0e"
+    ],
+    "owner": [
+      "fac79b61bb0e"
+    ],
+    "master": [
+      "fac79b61bb0e"
+    ],
+    "team": [
+      "fac79b61bb0e"
+    ],
+    "kanban": [
+      "fac79b61bb0e"
+    ],
+    "board": [
+      "fac79b61bb0e"
+    ],
+    "tracks": [
+      "fac79b61bb0e"
+    ],
+    "work": [
+      "fac79b61bb0e"
+    ],
+    "columns": [
+      "b74912f4f80b",
+      "fac79b61bb0e"
+    ],
+    "todo": [
+      "fac79b61bb0e"
+    ],
+    "progress": [
+      "fac79b61bb0e"
+    ],
+    "review": [
+      "fac79b61bb0e"
+    ],
+    "burndown": [
+      "fac79b61bb0e"
+    ],
+    "chart": [
+      "fac79b61bb0e"
+    ],
+    "remaining": [
+      "fac79b61bb0e"
+    ],
+    "duration": [
+      "fac79b61bb0e"
+    ],
+    "version": [
+      "fac79b61bb0e"
+    ],
+    "git": [
+      "fac79b61bb0e"
+    ],
+    "github": [
+      "fac79b61bb0e"
+    ],
+    "enables": [
+      "fac79b61bb0e"
+    ],
+    "collaboration": [
+      "fac79b61bb0e"
+    ],
+    "branches": [
+      "fac79b61bb0e"
+    ],
+    "commits": [
+      "fac79b61bb0e"
+    ],
+    "pull": [
+      "fac79b61bb0e"
+    ],
+    "requests": [
+      "fac79b61bb0e"
+    ],
+    "quality": [
+      "fac79b61bb0e"
+    ],
+    "continuous": [
+      "fac79b61bb0e"
+    ],
+    "integration": [
+      "fac79b61bb0e"
+    ],
+    "actions": [
+      "fac79b61bb0e"
+    ],
+    "automated": [
+      "fac79b61bb0e"
+    ],
+    "tests": [
+      "fac79b61bb0e"
+    ],
+    "request": [
+      "fac79b61bb0e"
+    ],
+    "unit": [
+      "fac79b61bb0e"
+    ],
+    "unittest": [
+      "fac79b61bb0e"
+    ],
+    "principles": [
+      "fac79b61bb0e"
+    ],
+    "modularity": [
+      "fac79b61bb0e"
+    ],
+    "separation": [
+      "fac79b61bb0e"
+    ],
+    "concerns": [
+      "fac79b61bb0e"
+    ],
+    "documentation": [
+      "fac79b61bb0e"
+    ],
+    "requirements": [
+      "fac79b61bb0e"
+    ],
+    "architecture": [
+      "fac79b61bb0e"
+    ],
+    "diagrams": [
+      "fac79b61bb0e"
+    ],
+    "definitions": [
+      "fac79b61bb0e"
+    ],
+    "guide": [
+      "fac79b61bb0e"
+    ],
+    "statement": [
+      "b74912f4f80b"
+    ],
+    "retrieves": [
+      "b74912f4f80b"
+    ],
+    "filters": [
+      "b74912f4f80b"
+    ],
+    "sorts": [
+      "b74912f4f80b"
+    ],
+    "group": [
+      "b74912f4f80b"
+    ],
+    "aggregates": [
+      "b74912f4f80b"
+    ],
+    "combines": [
+      "b74912f4f80b"
+    ],
+    "indexes": [
+      "b74912f4f80b"
+    ],
+    "speed": [
+      "b74912f4f80b"
+    ],
+    "identifies": [
+      "b74912f4f80b"
+    ],
+    "row": [
+      "b74912f4f80b"
+    ],
+    "avoid": [
+      "b74912f4f80b"
+    ],
+    "duplication": [
+      "b74912f4f80b"
+    ],
+    "statements": [
+      "b74912f4f80b"
+    ],
+    "succeed": [
+      "b74912f4f80b"
+    ],
+    "fail": [
+      "b74912f4f80b"
+    ],
+    "programs": [
+      "b74912f4f80b"
+    ],
+    "connect": [
+      "b74912f4f80b"
+    ],
+    "driver": [
+      "b74912f4f80b"
+    ],
+    "execute": [
+      "b74912f4f80b"
+    ],
+    "queries": [
+      "b74912f4f80b"
+    ],
+    "fetch": [
+      "b74912f4f80b"
+    ],
+    "handle": [
+      "b74912f4f80b"
+    ],
+    "errors": [
+      "b74912f4f80b"
+    ],
+    "complements": [
+      "b74912f4f80b"
+    ],
+    "theory": [
+      "b74912f4f80b"
+    ],
+    "covered": [
+      "b74912f4f80b"
+    ]
+  },
+  "doc_term_freqs": {
+    "a0928b1a9e69": {
+      "algorithms": 6,
+      "design": 2,
+      "analysis": 2,
+      "notes": 1,
+      "algorithm": 4,
+      "step": 2,
+      "procedure": 1,
+      "solving": 1,
+      "problem": 1,
+      "measures": 1,
+      "time": 4,
+      "complexity": 3,
+      "space": 1,
+      "often": 1,
+      "expressed": 1,
+      "big": 1,
+      "notation": 1,
+      "common": 1,
+      "complexities": 1,
+      "include": 4,
+      "constant": 1,
+      "logarithmic": 2,
+      "linear": 2,
+      "linearithmic": 1,
+      "quadratic": 1,
+      "exponential": 1,
+      "sorting": 2,
+      "bubble": 1,
+      "sort": 8,
+      "selection": 1,
+      "insertion": 1,
+      "merge": 2,
+      "quick": 2,
+      "heap": 1,
+      "use": 1,
+      "divide": 2,
+      "conquer": 2,
+      "average": 1,
+      "log": 1,
+      "searching": 2,
+      "search": 5,
+      "binary": 2,
+      "requires": 1,
+      "sorted": 1,
+      "data": 2,
+      "runs": 1,
+      "paradigms": 1,
+      "greedy": 1,
+      "dynamic": 1,
+      "programming": 1,
+      "backtracking": 1,
+      "dijkstra": 1,
+      "finds": 1,
+      "shortest": 1,
+      "paths": 1,
+      "graphs": 2,
+      "depth": 1,
+      "first": 2,
+      "breadth": 1,
+      "traverse": 1,
+      "trees": 2,
+      "recursion": 1,
+      "technique": 1,
+      "function": 1,
+      "calls": 1,
+      "itself": 1,
+      "base": 1,
+      "case": 1,
+      "terminate": 1,
+      "efficient": 1,
+      "depend": 1,
+      "appropriate": 1,
+      "structures": 1,
+      "hash": 1,
+      "tables": 1,
+      "heaps": 1,
+      "balanced": 1,
+      "ranking": 1,
+      "documents": 1,
+      "relies": 1,
+      "scoring": 1,
+      "results": 1,
+      "relevance": 1
+    },
+    "e55ef712e264": {
+      "data": 9,
+      "structures": 6,
+      "study": 1,
+      "notes": 1,
+      "organize": 1,
+      "store": 2,
+      "efficiently": 1,
+      "common": 1,
+      "include": 1,
+      "arrays": 1,
+      "linked": 3,
+      "lists": 3,
+      "stacks": 1,
+      "queues": 1,
+      "trees": 4,
+      "graphs": 2,
+      "hash": 3,
+      "tables": 2,
+      "heaps": 1,
+      "structure": 1,
+      "trade": 1,
+      "offs": 1,
+      "time": 2,
+      "space": 1,
+      "complexity": 1,
+      "stack": 1,
+      "follows": 2,
+      "last": 1,
+      "first": 3,
+      "out": 2,
+      "order": 2,
+      "push": 1,
+      "pop": 1,
+      "operations": 2,
+      "queue": 1,
+      "enqueue": 1,
+      "dequeue": 1,
+      "list": 1,
+      "consists": 1,
+      "nodes": 3,
+      "node": 5,
+      "stores": 1,
+      "reference": 2,
+      "next": 1,
+      "doubly": 1,
+      "previous": 1,
+      "hierarchical": 1,
+      "root": 1,
+      "child": 1,
+      "leaf": 1,
+      "binary": 2,
+      "restrict": 1,
+      "two": 1,
+      "children": 1,
+      "search": 1,
+      "maintain": 1,
+      "ordering": 1,
+      "fast": 1,
+      "lookup": 2,
+      "consist": 1,
+      "vertices": 1,
+      "edges": 1,
+      "directed": 1,
+      "undirected": 1,
+      "use": 1,
+      "function": 1,
+      "map": 1,
+      "keys": 1,
+      "buckets": 1,
+      "providing": 1,
+      "average": 1,
+      "constant": 1,
+      "understanding": 1,
+      "essential": 1,
+      "algorithms": 2,
+      "database": 1,
+      "indexing": 1,
+      "operating": 1,
+      "systems": 1,
+      "python": 1,
+      "tuples": 1,
+      "sets": 1,
+      "dictionaries": 1,
+      "built": 1,
+      "implemented": 1,
+      "efficient": 1
+    },
+    "74cd817c3420": {
+      "database": 9,
+      "management": 2,
+      "systems": 2,
+      "dbms": 2,
+      "notes": 1,
+      "organized": 1,
+      "collection": 1,
+      "data": 3,
+      "system": 1,
+      "software": 1,
+      "manages": 1,
+      "databases": 2,
+      "provides": 1,
+      "interface": 1,
+      "users": 1,
+      "applications": 1,
+      "examples": 1,
+      "include": 3,
+      "mysql": 1,
+      "postgresql": 1,
+      "sqlite": 1,
+      "normalization": 4,
+      "process": 1,
+      "reduces": 2,
+      "redundancy": 2,
+      "improves": 2,
+      "consistency": 3,
+      "organizing": 2,
+      "tables": 5,
+      "involves": 1,
+      "dividing": 1,
+      "large": 1,
+      "smaller": 1,
+      "defining": 1,
+      "relationships": 2,
+      "between": 1,
+      "normal": 4,
+      "forms": 1,
+      "first": 1,
+      "form": 3,
+      "second": 1,
+      "third": 1,
+      "primary": 2,
+      "keys": 4,
+      "foreign": 2,
+      "structured": 1,
+      "query": 3,
+      "language": 1,
+      "sql": 2,
+      "used": 1,
+      "manipulate": 1,
+      "common": 1,
+      "commands": 1,
+      "select": 1,
+      "insert": 1,
+      "update": 1,
+      "delete": 1,
+      "create": 1,
+      "table": 1,
+      "join": 1,
+      "operations": 1,
+      "index": 1,
+      "speeds": 1,
+      "up": 1,
+      "retrieval": 2,
+      "transactions": 1,
+      "ensure": 1,
+      "acid": 1,
+      "properties": 1,
+      "atomicity": 1,
+      "isolation": 1,
+      "durability": 1,
+      "entity": 1,
+      "relationship": 1,
+      "model": 1,
+      "describes": 1,
+      "entities": 1,
+      "attributes": 1,
+      "uniquely": 1,
+      "identify": 1,
+      "rows": 1,
+      "link": 1,
+      "together": 1,
+      "concurrency": 1,
+      "control": 1,
+      "deadlock": 1,
+      "handling": 1,
+      "important": 1,
+      "multi": 1,
+      "user": 1,
+      "indexing": 1,
+      "optimization": 1,
+      "schema": 1,
+      "design": 1,
+      "affect": 1,
+      "performance": 1
+    },
+    "b6bad5a68eba": {
+      "computer": 2,
+      "networks": 2,
+      "networking": 1,
+      "notes": 1,
+      "network": 4,
+      "connects": 1,
+      "devices": 2,
+      "share": 1,
+      "data": 3,
+      "osi": 1,
+      "model": 2,
+      "seven": 1,
+      "layers": 2,
+      "physical": 1,
+      "link": 2,
+      "transport": 2,
+      "session": 1,
+      "presentation": 1,
+      "application": 2,
+      "tcp": 3,
+      "ip": 4,
+      "simplifies": 1,
+      "four": 1,
+      "addressing": 1,
+      "routing": 1,
+      "move": 1,
+      "packets": 1,
+      "across": 1,
+      "reliable": 1,
+      "connection": 1,
+      "oriented": 1,
+      "protocol": 2,
+      "acknowledgments": 1,
+      "retransmission": 1,
+      "udp": 2,
+      "faster": 1,
+      "connectionless": 1,
+      "used": 1,
+      "streaming": 1,
+      "http": 1,
+      "https": 1,
+      "operate": 1,
+      "layer": 1,
+      "web": 1,
+      "dns": 1,
+      "resolves": 1,
+      "domain": 1,
+      "names": 1,
+      "addresses": 2,
+      "dhcp": 1,
+      "assigns": 1,
+      "automatically": 1,
+      "include": 1,
+      "hubs": 1,
+      "switches": 1,
+      "routers": 1,
+      "firewalls": 2,
+      "ethernet": 1,
+      "wifi": 1,
+      "common": 1,
+      "technologies": 1,
+      "congestion": 1,
+      "control": 2,
+      "flow": 1,
+      "error": 1,
+      "detection": 1,
+      "improve": 1,
+      "reliability": 1,
+      "socket": 1,
+      "programming": 1,
+      "python": 1,
+      "allows": 1,
+      "building": 1,
+      "client": 1,
+      "server": 1,
+      "applications": 1,
+      "over": 1,
+      "security": 1,
+      "uses": 1,
+      "encryption": 1,
+      "authentication": 1,
+      "protect": 1
+    },
+    "5f99a34fc81e": {
+      "operating": 3,
+      "systems": 2,
+      "os": 1,
+      "notes": 1,
+      "system": 3,
+      "manages": 1,
+      "hardware": 2,
+      "software": 1,
+      "resources": 2,
+      "acts": 1,
+      "intermediary": 1,
+      "between": 1,
+      "users": 1,
+      "core": 1,
+      "functions": 1,
+      "include": 4,
+      "process": 5,
+      "management": 5,
+      "memory": 5,
+      "file": 2,
+      "device": 1,
+      "program": 1,
+      "execution": 2,
+      "scheduling": 2,
+      "algorithms": 2,
+      "first": 3,
+      "come": 1,
+      "served": 1,
+      "shortest": 1,
+      "job": 1,
+      "round": 1,
+      "robin": 1,
+      "priority": 1,
+      "inter": 1,
+      "communication": 1,
+      "uses": 2,
+      "pipes": 1,
+      "message": 1,
+      "queues": 1,
+      "shared": 1,
+      "threads": 1,
+      "share": 1,
+      "within": 1,
+      "enable": 1,
+      "concurrent": 1,
+      "deadlock": 6,
+      "occurs": 1,
+      "processes": 1,
+      "wait": 3,
+      "held": 1,
+      "detection": 2,
+      "prevention": 1,
+      "essential": 1,
+      "four": 1,
+      "coffman": 1,
+      "conditions": 1,
+      "mutual": 1,
+      "exclusion": 1,
+      "hold": 1,
+      "preemption": 1,
+      "circular": 1,
+      "examine": 1,
+      "resource": 1,
+      "allocation": 1,
+      "graphs": 1,
+      "banker": 1,
+      "algorithm": 1,
+      "avoids": 1,
+      "safe": 1,
+      "state": 1,
+      "checks": 1,
+      "paging": 1,
+      "segmentation": 1,
+      "virtual": 1,
+      "organizes": 1,
+      "files": 1,
+      "directories": 1,
+      "synchronization": 1,
+      "problems": 1,
+      "critical": 1,
+      "section": 1,
+      "semaphores": 1,
+      "monitors": 1,
+      "readers": 1,
+      "writers": 1,
+      "problem": 1,
+      "popular": 1,
+      "linux": 1,
+      "windows": 1,
+      "macos": 1
+    },
+    "5dd1fab4f415": {
+      "python": 9,
+      "programming": 7,
+      "language": 3,
+      "introduction": 1,
+      "notes": 1,
+      "high": 1,
+      "level": 1,
+      "known": 1,
+      "simplicity": 1,
+      "readability": 1,
+      "created": 1,
+      "guido": 1,
+      "van": 1,
+      "rossum": 1,
+      "first": 1,
+      "released": 1,
+      "1991": 1,
+      "supports": 1,
+      "multiple": 1,
+      "paradigms": 1,
+      "including": 1,
+      "procedural": 1,
+      "object": 3,
+      "oriented": 2,
+      "functional": 1,
+      "interpreted": 1,
+      "means": 1,
+      "code": 2,
+      "executed": 1,
+      "line": 2,
+      "interpreter": 1,
+      "dynamic": 1,
+      "typing": 1,
+      "automatic": 1,
+      "memory": 1,
+      "management": 1,
+      "large": 1,
+      "standard": 1,
+      "library": 1,
+      "common": 1,
+      "data": 2,
+      "structures": 1,
+      "include": 1,
+      "lists": 3,
+      "tuples": 2,
+      "sets": 2,
+      "dictionaries": 2,
+      "mutable": 1,
+      "ordered": 2,
+      "sequences": 3,
+      "immutable": 1,
+      "store": 2,
+      "unique": 1,
+      "unordered": 1,
+      "elements": 1,
+      "key": 1,
+      "value": 1,
+      "pairs": 1,
+      "functions": 3,
+      "defined": 1,
+      "def": 1,
+      "keyword": 2,
+      "lambda": 1,
+      "provide": 1,
+      "way": 2,
+      "create": 2,
+      "small": 1,
+      "anonymous": 1,
+      "list": 1,
+      "comprehensions": 1,
+      "offer": 1,
+      "concise": 1,
+      "iterators": 1,
+      "generators": 2,
+      "allow": 1,
+      "efficient": 1,
+      "iteration": 1,
+      "over": 1,
+      "using": 1,
+      "yield": 1,
+      "produce": 1,
+      "values": 1,
+      "lazily": 1,
+      "exception": 1,
+      "handling": 2,
+      "uses": 1,
+      "try": 1,
+      "except": 1,
+      "finally": 1,
+      "blocks": 1,
+      "file": 1,
+      "done": 1,
+      "open": 1,
+      "function": 1,
+      "supporting": 1,
+      "read": 1,
+      "write": 1,
+      "append": 1,
+      "modes": 1,
+      "modules": 1,
+      "packages": 1,
+      "help": 1,
+      "organize": 1,
+      "supported": 1,
+      "classes": 1,
+      "inheritance": 1,
+      "polymorphism": 1,
+      "widely": 1,
+      "used": 1,
+      "web": 2,
+      "development": 1,
+      "frameworks": 1,
+      "like": 1,
+      "django": 2,
+      "analysis": 1,
+      "automation": 1,
+      "scripting": 1,
+      "framework": 1,
+      "follows": 1,
+      "model": 1,
+      "template": 1,
+      "view": 1,
+      "pattern": 1,
+      "provides": 1,
+      "relational": 1,
+      "mapper": 1,
+      "database": 1,
+      "access": 1
+    },
+    "fac79b61bb0e": {
+      "software": 4,
+      "engineering": 2,
+      "se": 1,
+      "notes": 1,
+      "applies": 1,
+      "systematic": 1,
+      "methods": 1,
+      "build": 1,
+      "reliable": 1,
+      "development": 3,
+      "life": 1,
+      "cycle": 1,
+      "includes": 2,
+      "requirement": 1,
+      "analysis": 1,
+      "design": 2,
+      "implementation": 1,
+      "testing": 3,
+      "deployment": 1,
+      "maintenance": 1,
+      "common": 1,
+      "process": 1,
+      "models": 1,
+      "include": 2,
+      "waterfall": 1,
+      "iterative": 2,
+      "spiral": 1,
+      "agile": 2,
+      "methodologies": 1,
+      "follows": 1,
+      "sprints": 1,
+      "product": 2,
+      "backlog": 3,
+      "sprint": 3,
+      "user": 1,
+      "stories": 1,
+      "story": 2,
+      "points": 2,
+      "daily": 1,
+      "standups": 1,
+      "reviews": 2,
+      "retrospectives": 1,
+      "scrum": 2,
+      "defines": 1,
+      "roles": 1,
+      "owner": 1,
+      "master": 1,
+      "team": 1,
+      "kanban": 1,
+      "board": 1,
+      "tracks": 2,
+      "work": 1,
+      "columns": 1,
+      "like": 2,
+      "todo": 1,
+      "progress": 1,
+      "code": 2,
+      "review": 1,
+      "done": 2,
+      "burndown": 1,
+      "chart": 1,
+      "remaining": 1,
+      "over": 1,
+      "duration": 1,
+      "version": 1,
+      "control": 1,
+      "git": 1,
+      "github": 2,
+      "enables": 1,
+      "collaboration": 1,
+      "branches": 1,
+      "commits": 1,
+      "pull": 2,
+      "requests": 1,
+      "maintain": 1,
+      "quality": 1,
+      "continuous": 1,
+      "integration": 2,
+      "actions": 1,
+      "runs": 1,
+      "automated": 1,
+      "tests": 4,
+      "push": 1,
+      "request": 1,
+      "unit": 1,
+      "system": 1,
+      "using": 1,
+      "frameworks": 1,
+      "unittest": 1,
+      "principles": 1,
+      "modularity": 1,
+      "separation": 1,
+      "concerns": 1,
+      "documentation": 1,
+      "requirements": 1,
+      "architecture": 1,
+      "diagrams": 1,
+      "definitions": 1,
+      "guide": 1
+    },
+    "b74912f4f80b": {
+      "sql": 4,
+      "database": 6,
+      "programming": 1,
+      "notes": 2,
+      "standard": 1,
+      "language": 1,
+      "relational": 1,
+      "databases": 1,
+      "mysql": 2,
+      "table": 1,
+      "stores": 1,
+      "rows": 2,
+      "columns": 1,
+      "select": 1,
+      "statement": 1,
+      "retrieves": 1,
+      "data": 1,
+      "filters": 1,
+      "order": 1,
+      "sorts": 1,
+      "results": 2,
+      "group": 2,
+      "aggregates": 1,
+      "join": 1,
+      "combines": 1,
+      "tables": 2,
+      "indexes": 1,
+      "improve": 1,
+      "query": 1,
+      "speed": 1,
+      "primary": 1,
+      "key": 1,
+      "uniquely": 1,
+      "identifies": 1,
+      "row": 1,
+      "normalization": 2,
+      "organizes": 1,
+      "schema": 1,
+      "avoid": 1,
+      "duplication": 1,
+      "transactions": 1,
+      "statements": 1,
+      "succeed": 1,
+      "fail": 1,
+      "together": 1,
+      "python": 2,
+      "programs": 1,
+      "connect": 1,
+      "driver": 1,
+      "execute": 1,
+      "queries": 1,
+      "fetch": 1,
+      "handle": 1,
+      "errors": 1,
+      "exception": 1,
+      "handling": 1,
+      "django": 1,
+      "models": 1,
+      "map": 1,
+      "classes": 1,
+      "understanding": 1,
+      "complements": 1,
+      "theory": 1,
+      "covered": 1,
+      "dbms": 1
+    }
+  },
+  "doc_lengths": {
+    "a0928b1a9e69": 126,
+    "e55ef712e264": 128,
+    "74cd817c3420": 140,
+    "b6bad5a68eba": 105,
+    "5f99a34fc81e": 127,
+    "5dd1fab4f415": 168,
+    "fac79b61bb0e": 131,
+    "b74912f4f80b": 81
+  },
+  "documents": {
+    "a0928b1a9e69": {
+      "doc_id": "a0928b1a9e69",
+      "title": "Algorithms",
+      "filename": "algorithms.txt",
+      "category": "Algorithms",
+      "content": "Algorithms - Design and Analysis Notes\n\nAn algorithm is a step-by-step procedure for solving a problem. Algorithm\nanalysis measures time complexity and space complexity, often expressed with\nBig-O notation. Common complexities include constant, logarithmic, linear,\nlinearithmic, quadratic, and exponential time.\n\nSorting algorithms include bubble sort, selection sort, insertion sort, merge\nsort, quick sort, and heap sort. Merge sort and quick sort use divide and\nconquer with average time complexity O(n log n). Searching algorithms include\nlinear search and binary search. Binary search requires sorted data and runs\nin logarithmic time.\n\nAlgorithm design paradigms include divide and conquer, greedy algorithms,\ndynamic programming, and backtracking. Dijkstra's algorithm finds shortest paths\nin graphs. Depth first search and breadth first search traverse trees and\ngraphs. Recursion is a technique where a function calls itself with a base case\nto terminate.\n\nEfficient algorithms depend on appropriate data structures such as hash tables,\nheaps, and balanced trees. Ranking and searching documents also relies on\nalgorithms for scoring and sorting results by relevance.\n",
+      "word_count": 166,
+      "char_count": 1178,
+      "content_hash": "3ad59a2cee4ba0c5b55dac6406ec34171be40654",
+      "loaded_at": "2026-10-08T16:59:53.085036+00:00"
+    },
+    "e55ef712e264": {
+      "doc_id": "e55ef712e264",
+      "title": "Datastructures",
+      "filename": "datastructures.txt",
+      "category": "Datastructures",
+      "content": "Data Structures - Study Notes\n\nData structures organize and store data efficiently. Common data structures\ninclude arrays, linked lists, stacks, queues, trees, graphs, hash tables, and\nheaps. Each data structure has trade-offs in time and space complexity.\n\nA stack follows last-in first-out order with push and pop operations. A queue\nfollows first-in first-out order with enqueue and dequeue operations. A linked\nlist consists of nodes where each node stores data and a reference to the next\nnode. Doubly linked lists also store a reference to the previous node.\n\nTrees are hierarchical data structures with a root node, child nodes, and leaf\nnodes. Binary trees restrict each node to at most two children. Binary search\ntrees maintain ordering for fast lookup. Graphs consist of vertices and edges\nand can be directed or undirected. Hash tables use a hash function to map keys\nto buckets, providing average constant time lookup.\n\nUnderstanding data structures is essential for algorithms, database indexing,\nand operating systems. Python lists, tuples, sets, and dictionaries are built-in\ndata structures implemented with efficient algorithms.\n",
+      "word_count": 174,
+      "char_count": 1147,
+      "content_hash": "7524bcdba97baedd92831b6d36b7447ed0e3c567",
+      "loaded_at": "2026-10-08T16:59:53.086101+00:00"
+    },
+    "74cd817c3420": {
+      "doc_id": "74cd817c3420",
+      "title": "Dbms",
+      "filename": "dbms.txt",
+      "category": "Dbms",
+      "content": "Database Management Systems - DBMS Notes\n\nA database is an organized collection of data. A database management system (DBMS)\nis software that manages databases and provides an interface for users and\napplications. Examples include MySQL, PostgreSQL, and SQLite.\n\nDatabase normalization is a process that reduces redundancy and improves data\nconsistency by organizing tables. Normalization involves dividing large tables\ninto smaller tables and defining relationships between them. The normal forms\ninclude first normal form, second normal form, and third normal form. Database\nnormalization reduces redundancy and improves data consistency by organizing\ntables with primary keys and foreign keys.\n\nStructured Query Language (SQL) is used to query and manipulate databases.\nCommon SQL commands include SELECT, INSERT, UPDATE, DELETE, CREATE TABLE, and\nJOIN operations. An index in a database speeds up retrieval. Transactions ensure\nACID properties: atomicity, consistency, isolation, and durability.\n\nThe entity relationship model describes entities, attributes, and relationships.\nPrimary keys uniquely identify rows, while foreign keys link tables together.\nConcurrency control and deadlock handling are important in multi-user database\nsystems. Database indexing, query optimization, and schema design affect\nperformance of database normalization and retrieval.\n",
+      "word_count": 183,
+      "char_count": 1365,
+      "content_hash": "1068c4d9d22401ee0e9fc3b628a03296d7aba1b7",
+      "loaded_at": "2026-10-08T16:59:53.086734+00:00"
+    },
+    "b6bad5a68eba": {
+      "doc_id": "b6bad5a68eba",
+      "title": "Networks",
+      "filename": "networks.txt",
+      "category": "Networks",
+      "content": "Computer Networks - Networking Notes\n\nA computer network connects devices to share data. The OSI model has seven\nlayers: physical, data link, network, transport, session, presentation, and\napplication. The TCP/IP model simplifies this into four layers. IP addressing\nand routing move packets across networks.\n\nTCP is a reliable connection-oriented transport protocol with acknowledgments\nand retransmission. UDP is a faster connectionless protocol used for streaming.\nHTTP and HTTPS operate at the application layer for the web. DNS resolves\ndomain names to IP addresses. DHCP assigns IP addresses automatically.\n\nNetwork devices include hubs, switches, routers, and firewalls. Ethernet and\nWiFi are common link technologies. Congestion control, flow control, and error\ndetection improve reliability. Socket programming in Python allows building\nclient server applications over TCP and UDP. Network security uses encryption,\nauthentication, and firewalls to protect data.\n",
+      "word_count": 134,
+      "char_count": 972,
+      "content_hash": "af8ac7f041e81d340f99208349e6a36e708a65db",
+      "loaded_at": "2026-10-08T16:59:53.087192+00:00"
+    },
+    "5f99a34fc81e": {
+      "doc_id": "5f99a34fc81e",
+      "title": "Os",
+      "filename": "os.txt",
+      "category": "Os",
+      "content": "Operating Systems - OS Notes\n\nAn operating system manages hardware and software resources. It acts as an\nintermediary between users and hardware. Core functions include process\nmanagement, memory management, file system management, and device management.\n\nA process is a program in execution. Process scheduling algorithms include first\ncome first served, shortest job first, round robin, and priority scheduling.\nInter-process communication uses pipes, message queues, and shared memory.\nThreads share memory within a process and enable concurrent execution.\n\nDeadlock occurs when processes wait for resources held by each other. Deadlock\ndetection and deadlock prevention are essential. The four Coffman conditions\nfor deadlock are mutual exclusion, hold and wait, no preemption, and circular\nwait. Deadlock detection algorithms examine resource allocation graphs.\nBanker's algorithm avoids deadlock by safe state checks.\n\nMemory management uses paging, segmentation, and virtual memory. The file system\norganizes files in directories. Synchronization problems include the critical\nsection, semaphores, monitors, and the readers writers problem. Popular\noperating systems include Linux, Windows, and macOS.\n",
+      "word_count": 163,
+      "char_count": 1209,
+      "content_hash": "bbad190681e2e3e23469ca4f7bba14faf344393f",
+      "loaded_at": "2026-10-08T16:59:53.087754+00:00"
+    },
+    "5dd1fab4f415": {
+      "doc_id": "5dd1fab4f415",
+      "title": "Python",
+      "filename": "python.txt",
+      "category": "Python",
+      "content": "Python Programming Language - Introduction Notes\n\nPython is a high-level programming language known for its simplicity and readability.\nIt was created by Guido van Rossum and first released in 1991. Python supports\nmultiple programming paradigms including procedural programming, object oriented\nprogramming, and functional programming.\n\nPython is an interpreted language, which means code is executed line by line by\nthe Python interpreter. It has dynamic typing, automatic memory management, and\na large standard library. Common data structures in Python include lists, tuples,\nsets, and dictionaries. Lists are mutable ordered sequences, tuples are immutable\nordered sequences, sets store unique unordered elements, and dictionaries store\nkey value pairs.\n\nFunctions in Python are defined with the def keyword. Lambda functions provide a\nway to create small anonymous functions. List comprehensions offer a concise way\nto create lists. Iterators and generators allow efficient iteration over sequences,\nwith generators using the yield keyword to produce values lazily.\n\nException handling in Python uses try, except, finally blocks. File handling is\ndone with the open function, supporting read, write, and append modes. Modules\nand packages help organize code, and object oriented programming is supported\nthrough classes, inheritance, and polymorphism.\n\nPython is widely used in web development with frameworks like Django, in data\nanalysis, automation, and scripting. The Django web framework follows the model\ntemplate view pattern and provides an object relational mapper for database access.\n",
+      "word_count": 227,
+      "char_count": 1601,
+      "content_hash": "be7fcdfc336e3b58ab7d5e92aca605eda426be92",
+      "loaded_at": "2026-10-08T16:59:53.088364+00:00"
+    },
+    "fac79b61bb0e": {
+      "doc_id": "fac79b61bb0e",
+      "title": "Software Engineering",
+      "filename": "software_engineering.txt",
+      "category": "Software Engineering",
+      "content": "Software Engineering - SE Notes\n\nSoftware engineering applies systematic methods to build reliable software.\nThe software development life cycle includes requirement analysis, design,\nimplementation, testing, deployment, and maintenance. Common process models\ninclude waterfall, iterative, spiral, and agile methodologies.\n\nAgile follows iterative sprints with a product backlog, sprint backlog, user\nstories, story points, daily standups, sprint reviews, and retrospectives. Scrum\ndefines roles such as product owner, scrum master, and development team. A\nKanban board tracks work in columns like backlog, todo, in progress, code\nreview, testing, and done. A burndown chart tracks remaining story points over\nsprint duration.\n\nVersion control with Git and GitHub enables collaboration. Branches, commits,\npull requests, and code reviews maintain quality. Continuous integration with\nGitHub Actions runs automated tests on push and pull request. Testing includes\nunit tests, integration tests, and system tests using frameworks like unittest.\n\nDesign principles include modularity, separation of concerns, and documentation.\nRequirements, architecture diagrams, and definitions of done guide development.\n",
+      "word_count": 158,
+      "char_count": 1205,
+      "content_hash": "61dbedd29ff5c27be0337ff9a6e85bca9c244d10",
+      "loaded_at": "2026-10-08T16:59:53.089082+00:00"
+    },
+    "b74912f4f80b": {
+      "doc_id": "b74912f4f80b",
+      "title": "Sql",
+      "filename": "sql.txt",
+      "category": "Sql",
+      "content": "SQL and Database Programming Notes\n\nSQL is the standard language for relational databases such as MySQL. A table\nstores rows and columns. The SELECT statement retrieves data, WHERE filters\nrows, ORDER BY sorts results, GROUP BY aggregates, and JOIN combines tables.\n\nDatabase indexes improve query speed. A primary key uniquely identifies each\nrow. Normalization organizes schema to avoid duplication. Transactions group\nstatements so they succeed or fail together.\n\nPython programs connect to MySQL with a database driver, execute SQL queries,\nfetch results, and handle database errors with exception handling. Django\nmodels map Python classes to database tables. Understanding SQL complements\ndatabase normalization theory covered in DBMS notes.\n",
+      "word_count": 107,
+      "char_count": 748,
+      "content_hash": "ffe3e85524e97b07796f1a7734714d005a36cf15",
+      "loaded_at": "2026-10-08T16:59:53.089749+00:00"
+    }
+  }
+}
